@@ -1,0 +1,6 @@
+# My Try - One Month Rails
+
+This is the pinteresting sample application for 
+[*One Month Rails*](http://onemonthrails.com)
+
+by Mattan Griffel who is kindly guiding us through
