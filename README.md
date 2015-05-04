@@ -1,6 +1,5 @@
-# My Try - One Month Rails
+# Teach Yourself How to Code
 
-This is the pinteresting sample application for 
-[*One Month Rails*](http://onemonthrails.com)
+Teaching myself how to code - Fun and frustration, what a mix! 
 
-by Mattan Griffel who is kindly guiding us through
+By CecilieMaria 
